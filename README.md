@@ -5,11 +5,13 @@ Home: https://github.com/sjvrijn/mf2
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mf2-feedstock/blob/master/LICENSE.txt)
 
 Summary: A collection of analytical benchmark functions in multiple fidelities
 
+Development: https://github.com/sjvrijn/mf2
 
+Documentation: https://mf2.readthedocs.io/en/latest/
 
 Current build status
 ====================
