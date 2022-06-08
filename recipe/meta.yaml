@@ -1,5 +1,5 @@
 {% set name = "mf2" %}
-{% set version = "2021.10.0" %}
+{% set version = "2022.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d42866dd232b14ed0b78c02e8a756363ef4348907f525ea6d875628ade6b2fdc
+  sha256: 6edab8cf9b10379a6c9b5201a1cae60a23ed997be5e168b5bc32423d087e4f37
 
 build:
   number: 0
